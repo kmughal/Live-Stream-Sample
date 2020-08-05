@@ -6,7 +6,7 @@
   "homepage": "http://kmughal.github.io/Live-Stream-Sample/",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^2.14.1",
+    "fastify": "^2.15.1",
     "fastify-static": "^2.7.0",
     "gh-pages": "^2.2.0",
     "socket.io": "^2.3.0"
